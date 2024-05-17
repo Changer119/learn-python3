@@ -10,3 +10,10 @@ print('classmates[2] =', classmates[2])
 print('classmates[-1] =', classmates[-1])
 classmates.pop()
 print('classmates =', classmates)
+
+
+city_list = ['hengyang', 'chengdu', 'hangzhou']
+print(f'city_list size {len(city_list)}')
+print(f'i live in {len(city_list)} cities')
+
+print(f'city_list[0] = {city_list[0]}')
